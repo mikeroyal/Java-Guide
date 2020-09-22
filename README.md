@@ -84,7 +84,7 @@
 
 [Junit](https://junit.org/) is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
 
-[Mockito](https://site.mockito.org/)is the most popular Mocking framework for unit tests written in Java.
+[Mockito](https://site.mockito.org/) is the most popular Mocking framework for unit tests written in Java.
 
 [SpotBugs](https://spotbugs.github.io/) is a program which uses static analysis to look for bugs in Java code.
 
