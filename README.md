@@ -12,6 +12,8 @@
 
 [Getting Started with Java](https://docs.oracle.com/javase/tutorial/)
 
+[Oracle Java certifications from Oracle University](https://education.oracle.com/java-certification-benefits)
+
 [Java Tutorial by W3Schools](https://www.w3schools.com/java/)
 
 [Building Your First Android App in Java](codelabs.developers.google.com/codelabs/build-your-first-android-app/)
